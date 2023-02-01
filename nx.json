@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
-  "npmScope": "package-based",
+  "npmScope": "my-ns",
   "tasksRunnerOptions": {
     "default": {
       "runner": "nx/tasks-runners/default",
